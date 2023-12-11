@@ -9,7 +9,7 @@
 
 
 1.projektowanie bluzy lub koszulki do włsanych preferencji
-2.mozna wybrac rozmir krój kolor grafike napis materiał 
+2.mozna wybrac, rozmir, krój, kolor, grafike, napis, materiał, krotki/dlugi rekaw 
 3.formularz wysyłkowy
 4.przcisk zamów
 5.obrazek przykladowej bluzy/koszulki
